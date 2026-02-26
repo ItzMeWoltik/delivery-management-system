@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+pyjwt
+passlib[bcrypt]
+alembic
+requests
+pytest
